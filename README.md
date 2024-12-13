@@ -1,4 +1,10 @@
 # Analyse des Résultats d’une Enquête sur les Ventes de Vélos
+
+## TABLEAU DE BORD AVEC EXCEL
+
+![image](https://github.com/user-attachments/assets/4dd79097-7368-4a43-ae48-35ec2bcd9aaa)
+
+
 ## Contexte du Projet
 Ce projet d’analyse est basé sur les données des ventes de vélos et les profils des clients. L’objectif est d’examiner les tendances en matière de statut marital, de revenu moyen, de tranches d’âge des clients, et de distance de trajet des clients. Grâce à une approche analytique complète, cette étude permet de mieux comprendre les comportements d’achat des clients et de formuler des recommandations stratégiques pour les entreprises de vente de vélos.
 Objectifs du Projet:
@@ -44,10 +50,6 @@ o	Les clients se répartissent principalement entre les tranches d’âge des ad
 4.	Distance de Trajet des Clients
    
 o	La majorité des clients parcourent entre 2 et 5 miles pour acheter un vélo, avec une proportion notable parcourant plus de 10 miles.
-
-## TABLEAU DE BORD AVEC EXCEL
-
-![image](https://github.com/user-attachments/assets/4dd79097-7368-4a43-ae48-35ec2bcd9aaa)
 
 
 # Recommandations
