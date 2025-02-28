@@ -7,6 +7,7 @@
 
 ## Contexte du Projet
 Ce projet d’analyse est basé sur les données des ventes de vélos et les profils des clients. L’objectif est d’examiner les tendances en matière de statut marital, de revenu moyen, de tranches d’âge des clients, et de distance de trajet des clients. Grâce à une approche analytique complète, cette étude permet de mieux comprendre les comportements d’achat des clients et de formuler des recommandations stratégiques pour les entreprises de vente de vélos.
+
 Objectifs du Projet:
 
 •	Comprendre le statut marital des clients : Évaluer la répartition des clients entre célibataires et mariés.
